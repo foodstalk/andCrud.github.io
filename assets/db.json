@@ -1,0 +1,52 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "abc",
+      "uname": "abc",
+      "pass": "123"
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "uname": "abc",
+      "pass": "123"
+    },
+    {
+      "id": 3,
+      "name": "pqr",
+      "uname": "abc",
+      "pass": "123"
+    },
+    {
+      "id": 4,
+      "name": " qwe",
+      "uname": " swd",
+      "pass": " 131"
+    },
+    {
+      "id": 5,
+      "name": " ss",
+      "uname": " ds",
+      "pass": " dsd"
+    },
+    {
+      "id": 6,
+      "name": " ss",
+      "uname": " ds",
+      "pass": " dsd"
+    },
+    {
+      "id": 7,
+      "name": " sdd",
+      "uname": " ds",
+      "pass": " dsd"
+    },
+    {
+      "id": 8,
+      "name": " sd",
+      "uname": " sassawsasasas",
+      "pass": " sawsas"
+    }
+  ]
+}
